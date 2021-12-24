@@ -55,7 +55,7 @@ public class ArrayReduce {
             System.out.println("是否开始进行数组数据缩减 y/n:");
             String continueReduce = myScanner.next();
             //continue继续进行下一次循环
-            if (continueReduce.equals("y")){
+            if ("y".equals(continueReduce)){
                 continue;
             }else {
                 //break结束循环

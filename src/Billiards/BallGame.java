@@ -17,6 +17,7 @@ public class BallGame extends JFrame {
 //    boolean right = true;//控制小球水平位移的方向
 
     //绘制窗口
+    @Override
     public void paint(Graphics g){
         System.out.println("窗口被画了一次");
         g.drawImage(desk,0,0,null);

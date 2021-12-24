@@ -22,10 +22,10 @@ public class TestLoop3 {
             String command = sc.next();
             System.out.println(command + "=============");
 
-            if (command.equals("exit")){
+            if ("exit".equals(command)){
                 System.out.println("退出软件");
                 break;
-            }else if (command.equals("next")){
+            }else if ("next".equals(command)){
                 System.out.println("计算下一个年薪");
 
                 continue;

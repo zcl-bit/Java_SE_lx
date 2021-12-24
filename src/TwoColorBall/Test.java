@@ -81,6 +81,8 @@ public class Test {
                                 System.out.println("恭喜你，中了六等奖，1注奖金1万，您一共获得："
                                         + count + "万元");
                                 break;
+                            default:
+                                break;
 
                         }
                         System.out.println("双色球系统》》查看开奖");
@@ -93,6 +95,8 @@ public class Test {
                 case 3:
                     System.out.println("双色球系统》》退出");
                     return;
+                default:
+                    break;
             }
         }
     }

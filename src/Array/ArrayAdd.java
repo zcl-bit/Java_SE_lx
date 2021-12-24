@@ -84,7 +84,7 @@ public class ArrayAdd {
             String continueAdd = sc.next();
             //接受char类型
             //char key = sc.next().charAt(0);
-            if (continueAdd.equals("n")) {
+            if ("n".equals(continueAdd)) {
                 break;
             }
         }while(true);

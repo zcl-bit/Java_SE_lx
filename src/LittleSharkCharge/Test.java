@@ -65,8 +65,12 @@ public class Test {
                         case "y":
                             System.out.println("系统退出，欢迎您下次继续使用！");
                             return;
+                        default:
+                            break;
                     }
                     return;
+                default:
+                    break;
             }
         }
     }

@@ -55,7 +55,7 @@ public class PersonalIncomeTax {
             System.out.println("应纳税所得额："+jiao+"元\t"+"纳税税额"+shui+"元\t"+"实发工资"+slary+"元");
             System.out.println("输入exit退出程序！其他继续计算！");
             String cmd =scanner.next();
-            if(cmd.equals("exit")){
+            if("exit".equals(cmd)){
                 System.out.println("程序结束，退出！");
                 break;
             }else{

@@ -32,24 +32,24 @@ public class StaticDemo {
     public static void main(String[] args) {
 
         StaticDemo sd = new StaticDemo();
-        sd.test();
+        test();
         sd.test2();
         StaticDemo.test();
         StaticDemo staticDemo = new StaticDemo();
         //使用对象进行调用
-        System.out.println(staticDemo.name);
-        System.out.println(staticDemo.age);
+        System.out.println(name);
+        System.out.println(age);
 
-        staticDemo.age = 20;
-        System.out.println(staticDemo.age);
+        age = 20;
+        System.out.println(age);
         System.out.println(StaticDemo.age);
 
         StaticDemo.age = 30;
-        System.out.println(staticDemo.age);
+        System.out.println(age);
         System.out.println(StaticDemo.age);
 
         StaticDemo staticDemo1 = new StaticDemo();
-        System.out.println(staticDemo1.age);
+        System.out.println(age);
 
 
         //使用类名进行调用
