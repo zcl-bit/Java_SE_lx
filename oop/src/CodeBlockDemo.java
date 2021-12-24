@@ -4,15 +4,24 @@
  * 普通代码块：定义在方法中，使用{}括起来的代码叫做普通代码块
  * 构造代码块：定义在类中的使用{}括起来的代码叫做构造代码块
  * 注意：每次代码运行的时候会将构造代码块中的代码添加到构造方法的前面
- * 静态代码块
- * 同步代码块
+ *      构造代码块中的代码会添加到每一个构造方法中，当使用this()的时候不会添加
+ * 静态代码块：
+ *      使用static{}括起来的代码叫做静态代码块，在程序载入的时候优先执行
+ *      数据库连接，创建IO流等其他需要提前准备好的代码会放在static代码块中
+ * 同步代码块：
+ *      在多线程的时候会使用，用来给共享空间进行加锁操作（后面讲）
+ * 执行顺序：静态代码块-》构造代码块（创建对象的时候才会用到）-》普通代码块-》同步代码块
  */
 public class CodeBlockDemo {
     int a;
     int b;
 
+    static {
+        System.out.println("静态代码块");
+    }
 
     public CodeBlockDemo() {
+        System.out.println("无参");
         System.out.println("构造方法");
     }
 
@@ -24,6 +33,7 @@ public class CodeBlockDemo {
     }
 
     public CodeBlockDemo(int a, int b) {
+//        this.a = a;
         this(a);
         this.b = b;
     }
@@ -36,7 +46,7 @@ public class CodeBlockDemo {
     }
 
     public static void main(String[] args) {
-        CodeBlockDemo codeBlockDemo = new CodeBlockDemo();
+        CodeBlockDemo codeBlockDemo = new CodeBlockDemo(1,2);
         codeBlockDemo.test();
         {
             System.out.println("main");
