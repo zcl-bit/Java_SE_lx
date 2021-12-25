@@ -43,6 +43,15 @@ public class Pet {
     public void play(){
         System.out.println("play");
     }
+
+    @Override
+    public String toString() {
+        return "Pet{" +
+                "name='" + name + '\'' +
+                ", age=" + age +
+                ", gender='" + gender + '\'' +
+                '}';
+    }
 }
 //
 //class Cat extends Pet{

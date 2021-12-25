@@ -9,6 +9,12 @@ public class PetTest {
         System.out.println(dog.getName());
         dog.play();
 
+        Pet pet = new Pet();
+        System.out.println(pet);
+
+        Dog dog1 = new Dog();
+        System.out.println(dog1);
+
     }
 
 }

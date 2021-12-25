@@ -58,4 +58,12 @@ public class Dog extends Pet {
         super.play();
         System.out.println("dog is playing");
     }
+
+    @Override
+    public String toString() {
+        super.toString();
+        return "Dog{" +
+                "sound='" + sound + '\'' +
+                '}';
+    }
 }
