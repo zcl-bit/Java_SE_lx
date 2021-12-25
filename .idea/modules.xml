@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/oop/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/oop/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/Inherit.iml" filepath="$PROJECT_DIR$/oop/Inherit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_SE_lx.iml" filepath="$PROJECT_DIR$/Java_SE_lx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/extend/extend.iml" filepath="$PROJECT_DIR$/oop/extend/extend.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
     </modules>
   </component>
