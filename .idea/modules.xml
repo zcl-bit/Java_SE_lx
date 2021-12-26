@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java_SE_lx.iml" filepath="$PROJECT_DIR$/Java_SE_lx.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/extend/extend.iml" filepath="$PROJECT_DIR$/oop/extend/extend.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/final/final.iml" filepath="$PROJECT_DIR$/oop/final/final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/object/object.iml" filepath="$PROJECT_DIR$/oop/object/object.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
     </modules>
   </component>
