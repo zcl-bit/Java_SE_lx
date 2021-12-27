@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/oop/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/oop/Abstract/Abstract.iml" />
-      <module fileurl="file://$PROJECT_DIR$/oop/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/oop/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/Inherit.iml" filepath="$PROJECT_DIR$/oop/Inherit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_SE_lx.iml" filepath="$PROJECT_DIR$/Java_SE_lx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/abstract/abstract.iml" filepath="$PROJECT_DIR$/oop/abstract/abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/oop/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/exercise/exercise.iml" filepath="$PROJECT_DIR$/oop/exercise/exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/extend/extend.iml" filepath="$PROJECT_DIR$/oop/extend/extend.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/final/final.iml" filepath="$PROJECT_DIR$/oop/final/final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/innerclass/innerclass.iml" filepath="$PROJECT_DIR$/oop/innerclass/innerclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/interface/interface.iml" filepath="$PROJECT_DIR$/oop/interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/object_polymorphism/object_polymorphism.iml" filepath="$PROJECT_DIR$/oop/object_polymorphism/object_polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
