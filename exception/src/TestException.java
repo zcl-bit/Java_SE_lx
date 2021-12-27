@@ -22,15 +22,17 @@ public class TestException {
             e.printStackTrace();
 //            System.out.println(e.getMessage());
         }*/
-/*
         }catch (ArithmeticException e){
             System.out.println("数学异常，除数不能为0");
             e.printStackTrace();
         }catch (InputMismatchException e){
             System.out.println("输入的参数值类型不匹配");
-            e.printStackTrace();*/
+            e.printStackTrace();
         }catch (NullPointerException e){
             System.out.println("空指针异常");
+            e.printStackTrace();
+        }catch (Exception e){
+            System.out.println("数据异常");
             e.printStackTrace();
         }
         System.out.println("感谢使用本程序!");
