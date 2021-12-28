@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" filepath="$PROJECT_DIR$/CollectionDemo/CollectionDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommonClas/CommonClas.iml" filepath="$PROJECT_DIR$/CommonClas/CommonClas.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/Inherit.iml" filepath="$PROJECT_DIR$/oop/Inherit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_SE_lx.iml" filepath="$PROJECT_DIR$/Java_SE_lx.iml" />
