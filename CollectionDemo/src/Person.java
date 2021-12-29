@@ -1,8 +1,8 @@
 import java.util.Objects;
 
 /**
- * @author: 马士兵教育
- * @create: 2019-09-21 15:32
+ * @author: zcl
+ * @create: 2021-12-29 15:32
  */
 public class Person implements Comparable{
     private String name;

@@ -1,8 +1,8 @@
 import java.util.Objects;
 
 /**
- * @author: 马士兵教育
- * @create: 2019-09-08 16:29
+ * @author: zcl
+ * @create: 2021-12-29 16:29
  */
 public class Dog {
     private String name;
