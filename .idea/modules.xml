@@ -29,6 +29,8 @@
       <module fileurl="file://$PROJECT_DIR$/oop/object_polymorphism/object_polymorphism.iml" filepath="$PROJECT_DIR$/oop/object_polymorphism/object_polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/studentManagement/studentManagement.iml" filepath="$PROJECT_DIR$/studentManagement/studentManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadpool/threadpool.iml" filepath="$PROJECT_DIR$/threadpool/threadpool.iml" />
     </modules>
   </component>
 </project>
