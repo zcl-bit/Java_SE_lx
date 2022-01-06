@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/aeroplane0.9/aeroplane0.9.iml" filepath="$PROJECT_DIR$/aeroplane0.9/aeroplane0.9.iml" />
       <module fileurl="file://$PROJECT_DIR$/aeroplane1.0/aeroplane1.0.iml" filepath="$PROJECT_DIR$/aeroplane1.0/aeroplane1.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/base/base.iml" filepath="$PROJECT_DIR$/base/base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/battle_of_tanks/battle_of_tanks.iml" filepath="$PROJECT_DIR$/battle_of_tanks/battle_of_tanks.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/oop/encapsulation/encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/exception/exception.iml" filepath="$PROJECT_DIR$/exception/exception.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/exercise/exercise.iml" filepath="$PROJECT_DIR$/oop/exercise/exercise.iml" />
@@ -34,6 +35,7 @@
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/snake_greedy/snake_greedy.iml" filepath="$PROJECT_DIR$/snake_greedy/snake_greedy.iml" />
       <module fileurl="file://$PROJECT_DIR$/studentManagement/studentManagement.iml" filepath="$PROJECT_DIR$/studentManagement/studentManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/telephone_book/telephone_book.iml" filepath="$PROJECT_DIR$/telephone_book/telephone_book.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/threadpool/threadpool.iml" filepath="$PROJECT_DIR$/threadpool/threadpool.iml" />
     </modules>

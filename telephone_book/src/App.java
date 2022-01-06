@@ -44,9 +44,6 @@ public class App {
                     break;
                 case 6:
                     System.exit(0);
-                default:
-                    System.out.println("输入错误，请重新选择");
-                    break;
             }
         }
     }
