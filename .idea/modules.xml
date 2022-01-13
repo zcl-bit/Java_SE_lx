@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/CommonClas/CommonClas.iml" filepath="$PROJECT_DIR$/CommonClas/CommonClas.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/Inherit.iml" filepath="$PROJECT_DIR$/oop/Inherit.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_SE_lx.iml" filepath="$PROJECT_DIR$/Java_SE_lx.iml" />
-      <module fileurl="file://$PROJECT_DIR$/perpetualcalendar/Perpetual calendar.iml" filepath="$PROJECT_DIR$/perpetualcalendar/Perpetual calendar.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/abstract/abstract.iml" filepath="$PROJECT_DIR$/oop/abstract/abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/aeroplane0.1/aeroplane0.1.iml" filepath="$PROJECT_DIR$/aeroplane0.1/aeroplane0.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/aeroplane0.2/aeroplane0.2.iml" filepath="$PROJECT_DIR$/aeroplane0.2/aeroplane0.2.iml" />
@@ -30,9 +29,11 @@
       <module fileurl="file://$PROJECT_DIR$/oop/innerclass/innerclass.iml" filepath="$PROJECT_DIR$/oop/innerclass/innerclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/interface/interface.iml" filepath="$PROJECT_DIR$/oop/interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/io/io.iml" filepath="$PROJECT_DIR$/io/io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/object_polymorphism/object_polymorphism.iml" filepath="$PROJECT_DIR$/oop/object_polymorphism/object_polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perpetual_calendar/perpetual_calendar.iml" filepath="$PROJECT_DIR$/perpetual_calendar/perpetual_calendar.iml" />
       <module fileurl="file://$PROJECT_DIR$/snake_greedy/snake_greedy.iml" filepath="$PROJECT_DIR$/snake_greedy/snake_greedy.iml" />
       <module fileurl="file://$PROJECT_DIR$/studentManagement/studentManagement.iml" filepath="$PROJECT_DIR$/studentManagement/studentManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/telephone_book/telephone_book.iml" filepath="$PROJECT_DIR$/telephone_book/telephone_book.iml" />
