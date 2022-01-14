@@ -8,6 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="mysql-connector-java-8.0.17" level="project" />
-    <orderEntry type="library" name="junit-4.8.2" level="project" />
+    <orderEntry type="library" exported="" name="junit-4.8.2" level="project" />
+    <orderEntry type="library" exported="" name="c3p0-0.9.1.2" level="project" />
   </component>
 </module>

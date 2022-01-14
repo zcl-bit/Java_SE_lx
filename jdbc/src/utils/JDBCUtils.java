@@ -38,23 +38,26 @@ public class JDBCUtils {
 
     /**
      * 获得连接
+     *
      * @return 连接
      * @throws Exception
-     * */
-    public static Connection getConnection() throws Exception{
+     */
+    public static Connection getConnection() throws Exception {
         //2、获得连接
         Connection connection = DriverManager.getConnection(url, user, password);
         return connection;
     }
+
     /**
      * 释放资源
-     * @return 释放资源
-     * @throws Exception
+     *
      * @param connection
      * @param resultSet
      * @param statement
-     * */
-    public static void release(ResultSet resultSet, Statement statement,Connection connection){
+     * @return 释放资源
+     * @throws Exception
+     */
+    public static void release(ResultSet resultSet, Statement statement, Connection connection) {
         if (resultSet != null) {
             try {
                 resultSet.close();
@@ -71,7 +74,6 @@ public class JDBCUtils {
             }
         }
         if (statement != null) {
-
             try {
                 connection.close();
             } catch (SQLException e) {
